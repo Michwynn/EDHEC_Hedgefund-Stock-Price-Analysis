@@ -1,6 +1,6 @@
 # EDHEC_Hedgefund-Stock-Price-Analysis
 
-### Script Dependencies and Infor: 
+### Script dependencies and infor: 
 - Config.ipynb (contains all relevant library imports and assumptions made) -> does not have any notebook dependency to run
 - Clean.ipynb (contains two clean function for each dataset) -> depends on Config.ipynb
 - Hedge_funds_analysis.ipynb (contains EDA for EDHEC hedge fund dataset) -> depends on Config.ipynb & Clean.ipynb
