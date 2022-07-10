@@ -9,8 +9,8 @@
 
 ### Steps to run notebook
 1) Clone github repository using the following command in your notebook/command line: git clone https://github.com/Michwynn/EDHEC_Hedgefund-Stock-Price-Analysis
-2) Run (restart and run all) Config.ipynb
-3) Run (restart and run all) Clean.ipynb
-4) Run (restart and run all) Hedge_funds_analysis.ipynb
-5) Run (restart and run all) Price_analysis.ipynb
-6) Run (restart and run all) and view Presentation.ipynb
+2) Run Config.ipynb
+3) Run Clean.ipynb
+4) Run Hedge_funds_analysis.ipynb
+5) Run Price_analysis.ipynb
+6) Run and view Presentation.ipynb
